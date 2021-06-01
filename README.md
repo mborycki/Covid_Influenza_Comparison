@@ -2,22 +2,22 @@
 How Covid19 influenced on Influenza detection?
 I have split my analysis by two parts:
 
-- First part contain Extracting / Transforming and Cleaning Data [part1](https://github.com/mborycki/Covid_Influenza_Comparison/blob/main/Flu_Covid_Cleaning.ipynb){:target="_blank"}
-- Second part refers to Analysis / Visualisation [part2](https://github.com/mborycki/Covid_Influenza_Comparison/blob/main/Flu_Covid_Analysis.ipynb){:target="_blank"}
+- First part contain Extracting / Transforming and Cleaning Data [part1](https://github.com/mborycki/Covid_Influenza_Comparison/blob/main/Flu_Covid_Cleaning.ipynb)
+- Second part refers to Analysis / Visualisation [part2](https://github.com/mborycki/Covid_Influenza_Comparison/blob/main/Flu_Covid_Analysis.ipynb)
 
-Please find more detailed description of this project in my **[portfolio](www.mariuszborycki.com){:target="_blank"}**
+Please find more detailed description of this project in my **[portfolio](www.mariuszborycki.com)**
 
 ---
 ### To make the analysis I have used two sources:
-- Covid19: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data{:target="_blank"}
-- Influenza: https://flunewseurope.org/VirusCharacteristics{:target="_blank"}
+- Covid19: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
+- Influenza: https://flunewseurope.org/VirusCharacteristics
 
 ---
 ### If you are interested in with more information about the coronavirus reports, please find them below:
 
-**Detailed description of the Covid report you can find** [here](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/README.md){:target="_blank"}
-**Daily Covid19 reports saved in .csv files find** [here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports){:target="_blank"}
-**Data sources: refer to the** [mainpage](https://github.com/CSSEGISandData/COVID-19){:target="_blank"}
+**Detailed description of the Covid report you can find** [here](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/README.md)
+**Daily Covid19 reports saved in .csv files find** [here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
+**Data sources: refer to the** [mainpage](https://github.com/CSSEGISandData/COVID-19)
 
 ---
 ### Covid19 source - Terms of Use:
