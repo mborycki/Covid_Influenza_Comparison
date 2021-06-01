@@ -15,9 +15,9 @@ Please find more detailed description of this project in my **[portfolio](www.ma
 ---
 ### If you are interested in with more information about the coronavirus reports, please find them below:
 
-**Detailed description of the Covid report you can find** [here](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/README.md)
-**Daily Covid19 reports saved in .csv files find** [here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
-**Data sources: refer to the** [mainpage](https://github.com/CSSEGISandData/COVID-19)
+**Detailed description of the Covid report you can find** [here](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/README.md)<br>
+**Daily Covid19 reports saved in .csv files find** [here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)<br>
+**Data sources: refer to the** [mainpage](https://github.com/CSSEGISandData/COVID-19)<br>
 
 ---
 ### Covid19 source - Terms of Use:
