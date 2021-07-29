@@ -1,4 +1,7 @@
 # Covid19 and Influenza Comparison
+Please find more detailed description of this project in my **[portfolio](https://mariuszborycki.com/2021/6/8/covid19-impact-influenza-europe/)**
+
+---
 How Covid19 influenced on Influenza detection?
 I have split my analysis by two parts:
 
